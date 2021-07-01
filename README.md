@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![MasterHead](https://github.com/MahamSid/MahamSid/blob/main/header.png?raw=true)](https://github.com/MahamSid)
 
 <br>
-- 🌱 I’m currently learning NoSQL (Mongodb)
+<br> - 🌱 I’m currently learning NoSQL (Mongodb) </br>
 - 👯 I’m looking to collaborate on - undecided 🤔 - 
 - 💬 Ask me about books, cats, photography
 - 😄 Pronouns: she/her
