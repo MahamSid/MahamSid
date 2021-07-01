@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Coding" width="400" src="https://i.imgur.com/P6bDlhy.gif">
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/AabZZd7.gif">
+
+<text> "hello" </text>
