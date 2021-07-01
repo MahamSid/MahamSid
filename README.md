@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![MasterHead](https://github.com/MahamSid/MahamSid/blob/main/header.png?raw=true)](https://github.com/MahamSid)
 
-<img align="right" alt="Coding" width="400" src="https://imgur.com/SETUnxu">
+<img align="right" alt="Coding" width="400" src="https://lh4.googleusercontent.com/NgsIqJlJSArJHL0F1kgdOCx37UGZ-sgiI95P6fQiQ75VQfqUIA4qDdOeD20wJ4EgTDMumH2jQHGFfqCRcZe8rIURRskDCyykzYMw8rkhM190uXwob_RwSoDMZOutwrIbUoG57quc">
