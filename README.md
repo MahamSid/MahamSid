@@ -16,13 +16,12 @@ Here are some ideas to get you started:
 -->
 [![MasterHead](https://github.com/MahamSid/MahamSid/blob/main/header.png?raw=true)](https://github.com/MahamSid)
 
-<br>
+
 <br> - 🌱 I’m currently learning NoSQL (Mongodb) </br>
-- 👯 I’m looking to collaborate on - undecided 🤔 - 
-- 💬 Ask me about books, cats, photography
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: My cat is obsessed with cheesecake (I'm also obsessed with my cat).
-</br>
+<br> - 👯 I’m looking to collaborate on - undecided 🤔 - </br>
+<br> - 💬 Ask me about books, cats, photography </br>
+<br> - 😄 Pronouns: she/her </br>
+<br> - ⚡ Fun fact: My cat is obsessed with cheesecake (I'm also obsessed with my cat) </br>
 
 <img align="left" alt="Coding" width="400" src="https://i.imgur.com/P6bDlhy.gif">
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/AabZZd7.gif">
