@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 [![MasterHead](https://github.com/MahamSid/MahamSid/blob/main/header.png?raw=true)](https://github.com/MahamSid)
 
 
-<br> - 🌱 I’m currently learning NoSQL (Mongodb) </br>
-<br> - 👯 I’m looking to collaborate on - undecided 🤔 - </br>
-<br> - 💬 Ask me about books, cats, photography </br>
+<br> - 🌱 SWE @ Mac </br>
+<br> - 💬 Ask me about books, cats, photography, (Hollow Knight - no, I haven't beaten NKG) </br>
 <br> - 😄 Pronouns: she/her </br>
 <br> - ⚡ Fun fact: My cat is obsessed with cheesecake (I'm also obsessed with my cat) </br>
 
