@@ -17,11 +17,10 @@ Here are some ideas to get you started:
 [![MasterHead](https://github.com/MahamSid/MahamSid/blob/main/header.png?raw=true)](https://github.com/MahamSid)
 
 
-<br> - 🌱 SWE @ Mac; interested in ML/AI </br>
+<br> - 🌱 SWE @ Mac; Interested in testing + data analytics, ML </br>
 <br> - 💬 Ask me about books, cats, photography, (Hollow Knight - no, I haven't beaten NKG) </br>
 <br> - 😄 Pronouns: she/her </br>
-<br> - ⚡ Fun fact: My cat is obsessed with cheesecake (I'm also obsessed with my cat) </br>
+<br> - ⚡ Fun fact: I blow on a spoon of ice cream like it's soup </br>
 
-<img align="left" alt="Coding" width="400" src="https://i.imgur.com/P6bDlhy.gif">
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/AabZZd7.gif">
+
 
