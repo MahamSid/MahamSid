@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 
 
 
-<br> - 🌱 SWE @ Mac; Interested in testing + data analytics, ML </br>
-<br> - 💬 Ask me about books, cats, photography, (Hollow Knight - no, I haven't beaten NKG) </br>
+<br> - 🌱 SWE @ Mac; Interested in testing + data analytics </br>
 <br> - 😄 Pronouns: she/her </br>
+<br> - 💬 Ask me about books, cats, photography, skin care </br>
+<br> - 🌱 I’m currently learning about optimization and computation! </br>
 <br> - ⚡ Fun fact: I blow on a spoon of ice cream like it's soup </br>
+<br> - Year 6 (Stardew valley) </br> 
 
 
 
