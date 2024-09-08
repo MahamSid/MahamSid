@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://github.com/MahamSid/MahamSid/blob/main/header.png?raw=true)](https://github.com/MahamSid)
+
 
 
 <br> - 🌱 SWE @ Mac; Interested in testing + data analytics, ML </br>
