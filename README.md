@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br> - 🌱 SWE @ Mac; Interested in testing + data analytics </br>
 <br> - 😄 Pronouns: she/her </br>
 <br> - 💬 Ask me about books, cats, photography, skin care </br>
-<br> - 🌱 I’m currently learning accessible design! </br>
+<br> - 🌱 I’m currently learning about accessible design! </br>
 <br> - ⚡ Fun fact: I blow on a spoon of ice cream like it's soup </br>
 
 
